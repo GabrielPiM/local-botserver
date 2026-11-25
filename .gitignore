@@ -1,0 +1,4 @@
+bin/
+refs/
+logs/
+config.env
